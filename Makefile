@@ -1,6 +1,6 @@
 .PHONY: help requirements build run all clean
 
-CONTAINER_NAME = custom-llm-container
+CONTAINER_NAME = prompt-response-validation
 
 all: build
 
